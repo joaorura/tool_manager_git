@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data/repos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/AlgoDS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Algorithms-4-everyone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Algorithms-and-Data-Structures-in-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/DSAlgorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Data-Structure-and-Algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Data-Structures-and-Algorithms-in-Java-2nd-Edition-by-Robert-Lafore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/DataStructure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/GFG-Java-Implementations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Important-Java-Concepts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Java-Algorithms-and-Data-Structures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Play-with-Algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Play-with-Data-Structures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/Project-Euler-solutions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algorithm-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algorithmic-programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algorithms-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/algs4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/basic-java-data-structures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/crack-the-code.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/data-structures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/data-structures-in-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/interview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/interviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/java-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/java-algorithms-implementation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/java-data-structures-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/jgrapht" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/jloda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/leetcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/princeton-java-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/repos/samplecodes" vcs="Git" />
+  </component>
+</project>
